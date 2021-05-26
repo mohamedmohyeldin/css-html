@@ -1,0 +1,174 @@
+*{margin: 0;
+    padding: 0;    
+
+}
+
+.container{width: 100%;
+    
+}
+.content{
+    width:900px;
+     margin:auto;
+    padding:10px;
+    overflow: hidden;
+
+}
+
+.content img {
+
+	width: 30px;
+	float:left;
+    
+}
+.content h2{color:#ffffff;
+    float: left;
+    line-height:40px;
+   
+}
+ul{
+    float: right;
+  
+}
+.container{display: inline-block;
+    float: right;
+}
+
+.content li{ color: white;
+    display: inline-block;
+	float:right;
+	margin:15px;
+    list-style:none;
+}
+.content li a {
+
+	color: white;
+}
+
+.product{
+	width:22%;
+	padding:5px 1%;
+	float:left;
+}
+/*.product:hover{
+	background-color:#CCC;
+	border:1px solid #000;
+}*/
+.icon{
+	width:32px;
+	height:32px;
+	margin:auto;
+	margin-bottom:15px;
+}
+.icon img{
+	width:32px;
+	height:32px;
+}
+.product h3{
+	text-align:center;
+	padding:5px 0px;
+}
+.product h5{
+	text-align:justify;
+	padding:5px 0px;
+}
+
+.btn{
+	width:150px;
+	margin:auto;
+	background-color:#666;
+	color:#000;
+	text-align:center;
+	padding:10px 0px;
+	margin-top:20px;
+	
+}
+.btn:hover{
+	border:1px solid #000;
+	font-size:20px;
+}
+
+/*.product:hover{
+	background-color:#CCC;
+	border:1px solid #000;
+}*/
+
+.icon{
+	width:32px;
+	height:32px;
+	margin:auto;
+	margin-bottom:15px;
+}
+.icon img{
+	width:32px;
+	height:32px;
+}
+.product h3{
+	text-align:center;
+	padding:5px 0px;
+}
+.product h5{
+	text-align:justify;
+	padding:5px 0px;
+}
+
+.btn{
+	width:150px;
+	margin:auto;
+	background-color:#666;
+	color:#000;
+	text-align:center;
+	padding:10px 0px;
+	margin-top:20px;
+	
+}
+.btn:hover{
+	border:1px solid #000;
+	font-size:20px;
+}
+
+.slider{
+	color:#FFF;
+	text-align:center;
+	padding:10px;
+}
+.photo img{
+	width:160px;
+	height:150px;
+	padding:5px;
+}
+.radiobtn{
+	width:80px;
+	margin:auto;
+}
+.sec{
+	overflow:hidden;
+	padding:20px 100px;
+}
+
+.txt{
+width:280px;
+float:left;	
+}
+.sec_photo{
+	width:150px;
+	height:150px;
+	float:left;
+	margin-left:150px;
+	
+
+	
+}
+.sec_photo img{
+	width:150px;
+	height:150px;
+}
+.btn2{
+	width:150px;
+
+	background-color:#09F;
+	color:#fff;
+	font-weight:bold;
+	text-align:center;
+	padding:10px 0px;
+	margin-top:20px;
+}
